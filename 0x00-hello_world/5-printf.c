@@ -1,13 +1,11 @@
 #include <stdio.h>
-
-/**
- * main -Enty point
- *
- * Return:Always 0 (success)
+/*
+ * main - Entry point
+ * Return: Always 0 (success)
  */
 int main(void)
 {
-	puts("\"programming is like build\
-			ing a mutillingual puzzle");
+	printf("with proper grammer,but the
+			outcomeis a piece of art,\n");
 	return (0);
 } 
